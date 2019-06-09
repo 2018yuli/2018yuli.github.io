@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>D:/dev/GrideaHome/output</id>
+    <id>https://2018yuli.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-06-09T05:36:48.637Z</updated>
+    <updated>2019-06-09T18:38:04.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="D:/dev/GrideaHome/output"/>
-    <link rel="self" href="D:/dev/GrideaHome/output/atom.xml"/>
+    <link rel="alternate" href="https://2018yuli.github.io/"/>
+    <link rel="self" href="https://2018yuli.github.io//atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>D:/dev/GrideaHome/output/images/avatar.png</logo>
-    <icon>D:/dev/GrideaHome/output/favicon.ico</icon>
+    <logo>https://2018yuli.github.io//images/avatar.png</logo>
+    <icon>https://2018yuli.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>D:/dev/GrideaHome/output/post/hello-gridea/index.html</id>
-        <link href="D:/dev/GrideaHome/output/post/hello-gridea/index.html">
+        <id>https://2018yuli.github.io//post/hello-gridea</id>
+        <link href="https://2018yuli.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
